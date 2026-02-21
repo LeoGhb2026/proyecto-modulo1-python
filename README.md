@@ -24,8 +24,10 @@ El proyecto incluye:
 
 ## Enlaces
 
-Repositorio GitHub: [enlace pendiente]  
-Aplicación en Streamlit Cloud: [enlace pendiente]
+Repositorio GitHub: https://github.com/LeoGhb2026/proyecto-modulo1-python
+
+Aplicación en Streamlit Cloud:https://proyecto-modulo1-python-krdmb2m6jx3csugw2mqyow.streamlit.app/
+
 ## Autor
 
 Leonardo Luis Díaz Vargas  
