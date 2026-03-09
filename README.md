@@ -1,34 +1,97 @@
-# Proyecto Módulo 1 – Fundamentos de Programación
-# Leonardo Luis Díaz Vargas
+# Bank Marketing EDA - Streamlit App
 
-## Descripción
-Aplicación interactiva desarrollada en Streamlit que integra los conceptos fundamentales aprendidos en el Módulo 1 del curso Especialización en Python for Analytics.
+## Descripción del Proyecto
 
-El proyecto incluye:
-- Variables y condicionales
-- Listas y diccionarios
-- Funciones
-- Programación funcional (map y lambda)
-- Programación orientada a objetos (POO)
+Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** sobre el dataset **BankMarketing**, con el objetivo de identificar factores que influyen en la aceptación de campañas de marketing de una institución financiera.
 
-## Estructura del Proyecto
-- app.py
-- requirements.txt
-- README.md
+Durante los últimos meses, la efectividad de las campañas disminuyó de 12% a 8%, afectando los resultados comerciales. A través de este análisis se busca comprender las relaciones entre variables y detectar patrones que ayuden a mejorar la toma de decisiones en futuras campañas.
 
-## Instrucciones de ejecución
+La aplicación fue desarrollada utilizando Python y Streamlit, permitiendo explorar los datos de forma interactiva mediante visualizaciones y análisis estadísticos.
 
-1. Clonar el repositorio
-2. Instalar dependencias:
+---
+
+## Tecnologías Utilizadas
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Streamlit
+
+---
+
+## Dataset
+
+El dataset **BankMarketing.csv** contiene información de campañas de marketing realizadas por una institución financiera. Incluye variables demográficas, financieras y de contacto con los clientes.
+
+Algunas de las variables principales son:
+
+- age: Edad del cliente
+- job: Tipo de trabajo
+- marital: Estado civil
+- education: Nivel educativo
+- housing: Crédito hipotecario
+- loan: Crédito personal
+- contact: Tipo de contacto
+- duration: Duración de la llamada
+- campaign: Número de contactos durante la campaña
+- previous: Número de contactos previos
+- poutcome: Resultado de la campaña anterior
+- y: Resultado final (aceptó o no la campaña)
+
+---
+
+## Funcionalidades de la Aplicación
+
+La aplicación permite:
+
+- Cargar el dataset en formato CSV
+- Visualizar una vista previa de los datos
+- Analizar dimensiones y estructura del dataset
+- Clasificar variables numéricas y categóricas
+- Visualizar estadísticas descriptivas
+- Generar gráficos de distribución
+- Analizar relaciones entre variables
+- Presentar conclusiones basadas en los resultados del análisis
+
+---
+
+## Cómo Ejecutar el Proyecto
+
+1. Clonar el repositorio:
+
+2. Instalar las dependencias:
+
 3. Ejecutar la aplicación:
 
-## Enlaces
 
-Repositorio GitHub: https://github.com/LeoGhb2026/proyecto-modulo1-python
+La aplicación se abrirá automáticamente en tu navegador.
 
-Aplicación en Streamlit Cloud:https://proyecto-modulo1-python-krdmb2m6jx3csugw2mqyow.streamlit.app/
+---
+## Interfaz de la Aplicación
+
+A continuación se muestran algunas capturas de la aplicación desarrollada con Streamlit.
+
+### Página principal
+
+![Home App](Imagen1.png)
+
+![Carga Dataset](Imagen2.png)
+
+![Análisis](Imagen3.png)
+
+## Aplicación Desplegada
+Streamlit Cloud: "https://trabajo-final-caso01-leo-diaz-nias6ka7mbanelqhhbvlx8.streamlit.app/"
+---
+
+## Repositorio GitHub
+
+LINK: "https://github.com/LeoGhb2026/Trabajo-Final-Caso01-Leo-Diaz"
+
+---
 
 ## Autor
 
-Leonardo Luis Díaz Vargas  
-2026
+Leonardo Luis Díaz Vargas 
+Especialización en Python for Analytics
