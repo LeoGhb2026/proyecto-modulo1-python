@@ -73,21 +73,25 @@ La aplicación se abrirá automáticamente en tu navegador.
 
 A continuación se muestran algunas capturas de la aplicación desarrollada con Streamlit.
 
-### Página principal
+### Página princPAL
+![Home App](TF/Imagen1.png)
 
-![Home App](Imagen1.png)
+![Carga Dataset](TF/Imagen2.png)
 
-![Carga Dataset](Imagen2.png)
-
-![Análisis](Imagen3.png)
+![Análisis](TF/Imagen3.png)
 
 ## Aplicación Desplegada
-Streamlit Cloud: "https://trabajo-final-caso01-leo-diaz-nias6ka7mbanelqhhbvlx8.streamlit.app/"
+
+Streamlit Cloud: 
+
+"https://trabajo-final-caso01-leo-diaz-nias6ka7mbanelqhhbvlx8.streamlit.app/"
 ---
 
 ## Repositorio GitHub
 
-LINK: "https://github.com/LeoGhb2026/Trabajo-Final-Caso01-Leo-Diaz"
+LINK: 
+
+"https://github.com/LeoGhb2026/Trabajo-Final-Caso01-Leo-Diaz"
 
 ---
 
